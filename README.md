@@ -119,22 +119,22 @@ Before jumping into analysis, we conducted a thorough data understanding phase:
 All dashboards are interactive, with drilldowns, dynamic titles, bookmarks, and KPI indicators for actionable insights.
 
 ## 🏡Home view
-https://github.com/Savita-insights/Business_Insights_360/blob/main/Home.pdf
+![Home View](images/Home.png)
 
 ## 💵Finance View
-https://github.com/Savita-insights/Business_Insights_360/blob/main/Finance%20View.pdf
+![Finance View](images/Finance%20View.png)
 
 ## 🏷️Sales View
-https://github.com/Savita-insights/Business_Insights_360/blob/main/Sales%20View.pdf
+![Sales View](images/Sales%20View.png)
 
 ## 🛒Marketing View
-https://github.com/Savita-insights/Business_Insights_360/blob/main/Marketing%20View.pdf
+![Marketing View](images/Marketing%20View.png)
 
 ## 🚚Supply Chain View
-https://github.com/Savita-insights/Business_Insights_360/blob/main/Supply%20Chain%20View.pdf
+![Supply Chain View](images/Supply%20Chain%20View.png)
 
 ## 👨🏻‍💼Executive View
-https://github.com/Savita-insights/Business_Insights_360/blob/main/Executive%20View.pdf
+![Executive View](images/Executive%20View.png)
 
 ## 🎯 Project Outcome
 
