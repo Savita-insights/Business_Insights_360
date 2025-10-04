@@ -104,6 +104,8 @@ Before jumping into analysis, we conducted a thorough data understanding phase:
 
 - Good data modeling practices applied to enable accurate analytics and fast visuals
 
+<img src="https://github.com/Savita-insights/Business_Insights_360/blob/main/Data%20Model.png" class="center">
+
 ## 🎨 Dashboard Design
 
 - **Home View:**  Central hub with navigation buttons to different dashboards
@@ -115,6 +117,24 @@ Before jumping into analysis, we conducted a thorough data understanding phase:
 - **Support View:**  User guidance and additional analytics
 
 All dashboards are interactive, with drilldowns, dynamic titles, bookmarks, and KPI indicators for actionable insights.
+
+## 🏡Home view
+https://github.com/Savita-insights/Business_Insights_360/blob/main/Home.pdf
+
+## 💵Finance View
+https://github.com/Savita-insights/Business_Insights_360/blob/main/Finance%20View.pdf
+
+## 🏷️Sales View
+https://github.com/Savita-insights/Business_Insights_360/blob/main/Sales%20View.pdf
+
+## 🛒Marketing View
+https://github.com/Savita-insights/Business_Insights_360/blob/main/Marketing%20View.pdf
+
+## 🚚Supply Chain View
+https://github.com/Savita-insights/Business_Insights_360/blob/main/Supply%20Chain%20View.pdf
+
+## 👨🏻‍💼Executive View
+https://github.com/Savita-insights/Business_Insights_360/blob/main/Executive%20View.pdf
 
 ## 🎯 Project Outcome
 
